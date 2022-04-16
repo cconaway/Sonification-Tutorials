@@ -26,7 +26,7 @@ Here is a link to a google drive with all the Sonifications from file 6.
 https://drive.google.com/drive/folders/14w3dRCGiSovdPP72jxExtOEkS37EyUn1?usp=sharing
 
 Here is a soundcloud link to some of the sonifications from file 6.
-https://soundcloud.com/pancansuckit/sets/mckenzie-river-symphony
+https://soundcloud.com/illb3bach/sets/mckenzie-river-symphony
 
 The output of each notebook will have a corresponding mp3 file (wav is too big), that shows one method of taking the midi data and putting it into a daw.
 I will put a short description of what I did in my Daw to help connect the dots between the outfile and the final sound.
